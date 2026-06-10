@@ -1,0 +1,11 @@
+alpaca-trade-api
+yfinance
+pandas
+numpy
+ta
+xgboost
+joblib
+scikit-learn
+python-dotenv
+requests
+matplotlib

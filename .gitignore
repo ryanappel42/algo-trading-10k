@@ -1,0 +1,10 @@
+# Secrets — never commit
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+venv/
+
+# Local-only artifacts
+benchmark.png
